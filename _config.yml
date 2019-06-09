@@ -1,24 +1,24 @@
 # ----
 # Site
 
-title: Frisco Template
-url: "https://brave-submarine.cloudvent.net"
-baseurl:
-google_analytics_key:
+title: Mobility Observer
+url: "https://mobilityobserver.se"
+baseurl: "https://mobilityobserver.se"
+google_analytics_key: UA-135634110-2
 google_maps_javascript_api_key:
 disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: App marketing template for Jekyll.
+description: Mobility Data strategy and software consulting
 author:
-  name:
-  email:
-  twitter: # twitter username without the @ symbol
+  name: Tyler Wolf
+  email: hello@mobilityobserver.se
+  twitter: tylernwolf
 social:
-  name: Frisco Template
+  name: Mobility Observer
   links:
-    - https://github.com/CloudCannon/frisco-jekyll-template
+    - https://adamekberg.github.io/govchallenge
 
 # -----
 # Build
